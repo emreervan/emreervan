@@ -1,27 +1,18 @@
-<div align="center">
-<h1>Hi, I'm Emre Ervan 👋</h1>
-<h3>Full Stack Developer · İzmir, Türkiye</h3>
-<p>Building web applications, SaaS products and thoughtful digital experiences.</p>
-<p><a href="https://emreervan.dev"><strong>Explore my portfolio ↗</strong></a></p>
-</div>
+# 💫 About Me:
+dd
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emre-ervan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emreervan@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=emreervan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=emreervan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=emreervan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
-A little about me
-I turn ideas into working software, from the interface to the backend.
-Web applications: SaaS platforms, dashboards and custom business tools.
-Websites & commerce: WordPress, WooCommerce and custom PHP solutions.
-Integrations: APIs, CRM connections and workflow automation.
-Exploring: AI-assisted development and better software architecture.
-My toolbox
-Frontend	Backend	Data & infrastructure
-React · TypeScript	C# · ASP.NET Core	MySQL · MSSQL
-Tailwind CSS · HTML · CSS	Node.js · PHP	Docker · Linux
-WordPress · WooCommerce	REST APIs	Git
-How I approach development
-Thoughtful interfaces. Reliable backends. Practical solutions.
-I care about maintainable code, useful products and the small details that make software feel right.
----
-<div align="center">
-<p><strong>Have something in mind? Let's connect.</strong></p>
-<a href="https://emreervan.dev">emreervan.dev ↗</a>
-<p><sub>Built with intention. Always in progress.</sub></p>
-</div>
+[![](https://komarev.com/ghpvc/?username=emreervan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
